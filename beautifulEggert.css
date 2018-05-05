@@ -1,0 +1,29 @@
+
+/*
+Beautifying Eggert's specs for easy readability 
+especially on bigger screens.
+Rishabh Aggarwal
+rishabhaggarwal.me
+*/
+
+body {
+    background: #f3f3f3;
+    width: 80%;
+    margin: auto;
+    max-width: 800px;
+    font-family: Baskerville, "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    line-height: 1.5;
+    color:#333;
+    font-size: 17px;
+}
+a{
+    color: #6895C7;
+}
+p, ul {
+    /* width: 80%; */
+    /* max-width: 800px; */
+    /* margin: auto; */
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: Myriad Pro, Avenir, "Avenir Next", "Trebuchet MS", sans-serif;
+}
